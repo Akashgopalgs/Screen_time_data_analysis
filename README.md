@@ -48,6 +48,5 @@ Using Seaborn and plotly visualized the data.with these visualization library it
 
 The analysis provides insights into screen time patterns, with a focus on the most notable day, '2022-09-18'. Understanding app usage and notification patterns can have implications for user behavior and engagement.
 
-For a detailed exploration of the project and its insights, you can check the Google Colab notebook 
-https://colab.research.google.com/drive/15uK-pkEONBPcjkBN8eE7aaf-TMLvHqXy?usp=sharing
+For a detailed exploration of the project and its insights, you can check the Google Colab notebook [here](https://colab.research.google.com/drive/15uK-pkEONBPcjkBN8eE7aaf-TMLvHqXy?usp=sharing)
 
